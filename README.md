@@ -15,7 +15,7 @@ You’ll start by editing this README file to learn how to edit a file in Bitbuc
 3. Click the **Edit** button.
 4. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
 5. Go back to the **Source** page.
-
+6. Make a second modify and look at the history.
 ---
 
 ## Create a file
